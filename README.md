@@ -1,2 +1,39 @@
-# parallel-link-arm-robot
-Arduino‑based parallel‑link robotic arm project with complete controller software and mathematical framework. Includes kinematic modeling, trajectory planning, and documentation with derivations, code, and visuals for robotics learning and experimentation.
+# Parallel-Link Arm Robot
+
+Arduino-based parallel-link robotic arm with a complete control system 
+and a mathematical framework for its kinematics.
+
+## Overview
+
+This project includes a kinematic model of the manipulator (3D geometric/
+kinematic model), direct and inverse kinematics derivations, and an 
+Arduino-based control system with three operating modes.
+
+## Features
+
+- Manual control of the manipulator
+- Automatic object search and grasping using an ultrasonic sensor
+- Precise coordinate input mode for moving the end effector 
+  (inverse kinematics)
+
+## Repository Structure
+
+- `/src` — control system code (C++, Arduino)
+- `/docs` — mathematical derivations, kinematics calculations, and 
+  model description
+
+## Technologies
+
+Arduino (C++), GeoGebra (3D kinematic model), parallel kinematics 
+mathematical modeling
+
+## Model
+
+<img width="957" height="403" alt="image" src="https://github.com/user-attachments/assets/dff865a9-81bc-40d4-954a-70ef1712d2fa" />
+
+<img width="1002" height="396" alt="image" src="https://github.com/user-attachments/assets/f568cd5e-9bb4-4cc8-b363-0f3cc2240b5d" />
+
+## Project Status
+
+Educational/research project focused on kinematic modeling and 
+control algorithms.
