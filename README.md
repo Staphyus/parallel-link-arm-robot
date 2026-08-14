@@ -33,6 +33,10 @@ mathematical modeling
 
 <img width="1002" height="396" alt="image" src="https://github.com/user-attachments/assets/f568cd5e-9bb4-4cc8-b363-0f3cc2240b5d" />
 
+## Circuit diagram
+
+<img width="652" height="662" alt="Schematics" src="https://github.com/user-attachments/assets/4b6a3252-5276-47f0-8aa4-8e2aef78a124" />
+
 ## Project Status
 
 Educational/research project focused on kinematic modeling and 
