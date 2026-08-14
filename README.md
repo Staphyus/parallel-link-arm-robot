@@ -9,6 +9,10 @@ This project includes a kinematic model of the manipulator (3D geometric/
 kinematic model), direct and inverse kinematics derivations, and an 
 Arduino-based control system with three operating modes.
 
+## Demo
+
+[Watch the video](demo.mp4)
+
 ## Features
 
 - Manual control of the manipulator
