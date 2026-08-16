@@ -11,7 +11,9 @@ Arduino-based control system with three operating modes.
 
 ## Demo
 
-[Watch the video](demo.mp4)
+<img width="380" height="214" alt="output" src="https://github.com/user-attachments/assets/019f75e8-0c22-4d2c-b952-6abfd4069091" />
+
+[Watch the full video](demo.mp4)
 
 ## Features
 
